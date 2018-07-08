@@ -10,8 +10,8 @@ __This is article about Date Economy in Brasil wrote in Brazilian Portuguese __
 5. Momento Ético 
 6. Proposições 
 
-##Tecnologias Abordadas
-##Techs In the Article
+## Tecnologias Abordadas
+## Techs In the Article
 
 * Neural Networks 
 * BigData(Hadoop)
