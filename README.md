@@ -3,8 +3,6 @@
 Artigo sobre Economia de Dados no Brasil e seu Dilemas
 __This is article about Date Economy in Brasil wrote in Brazilian Portuguese __
 
-Made by @JoãoVictorCabraldeMelo
-
 1. Dilemas
 2. Análise Legal
 3. Momento do Praticante
